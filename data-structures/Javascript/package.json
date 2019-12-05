@@ -1,0 +1,14 @@
+{
+  "name": "Javascript",
+  "version": "1.0.0",
+  "description": "Javascript data-structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}

@@ -1,4 +1,4 @@
-let Stack = require("./stack");
+let Stack = require("./stack.js");
 
 let s = new Stack();
 
